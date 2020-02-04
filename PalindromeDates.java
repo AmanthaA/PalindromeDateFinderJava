@@ -35,7 +35,7 @@ public class PalindromeDates {
         }   
     }
     
-    public static int [] createDateArray(int date,int month, int year){
+    public static int [] createDateArray(int date,int month, int year){ //Inserting the whole date to an array
         
         int dateArray[] = new int[8];
         
